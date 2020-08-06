@@ -6,6 +6,7 @@ I'm a Husband, Father, Developer, Founder!
 🥅 2020 Goals: Contribute more to Open Source projects
 ⚡ Fun fact: I love to write code, read books, learn
 Connect with me:
+Instagram |  Facebook | Linkedin
 
 Languages and Tools:
 Visual Studio Code HTML5 CSS3 Sass JavaScript MsSQL GitHub C# ReactJs
