@@ -1,7 +1,7 @@
 ### Hi there, I'm Ramil - [website] 👋
 
 ## I'm a Junior Developer!
-- 🔭 I’m currently working on my startup e-icare.az!
+- 🔭 I’m currently working on my startUp e-icare.az!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -52,7 +52,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+[startUp]: http://e-icare.az/
 [website]: https://github.com/VagifIdrak
 [facebook]: https://www.facebook.com/vagif.ibrahimov.52035
 [instagram]: https://www.instagram.com/vagif.idrak/
