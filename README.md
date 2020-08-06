@@ -1,6 +1,6 @@
-### Hi there, I'm Ramil - [website] 👋
+### Hi there, I'm Vagif - [website] 👋
 
-## I'm a Junior Developer!
+## I'm a Junior Web Developer!
 - 🔭 I’m currently working on my [startUp] e-icare.az!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
