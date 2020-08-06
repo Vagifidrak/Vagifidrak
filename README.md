@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write code,see and to learn
+- ⚡ Fun fact: I love to write code, see and learn
 
 ### Connect with me:
 
