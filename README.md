@@ -8,4 +8,4 @@ I'm a Husband, Father, Developer, Founder!
 Connect with me:
 
 Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptMsSQLGitHubHTML5C#ReactJs
+Visual Studio Code HTML5 CSS3 Sass JavaScript MsSQL GitHub C# ReactJs
