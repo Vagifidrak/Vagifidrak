@@ -53,13 +53,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-
-<!-- BLOG-POST-LIST:END -->
-
----
 [startUp]: http://e-icare.az/
 [website]: https://github.com/VagifIdrak
 [facebook]: https://www.facebook.com/vagif.ibrahimov.52035
